@@ -34,18 +34,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'YueZhang0406@gmail'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/EnzoYeez
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: www.linkedin.com/in/越-张-73020437b
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org
   - icon: academicons/cv
@@ -168,4 +168,8 @@ awards:
 
 ## About Me
 
-I am a junior majoring in Data Science at South China University of Technology (SCUT), School of Wuxianming Intelligence & School of Future Technology. My research spans (i) intelligent computing for combinatorial optimization—learning-based heuristics, evolutionary methods, and neural CO—and (ii) multi-turn reinforcement learning for LLMs, focusing on credit assignment, dialog planning, and tool use. I currently collaborate with Prof. Yahui Jia (SCUT) and Dr. Shen (Georgia Tech). Broadly, I’m interested in mathematics, AI, and data science, aiming to build scalable learning-to-search systems for real-world decision-making.
+I am a junior majoring in Data Science at South China University of Technology (SCUT), School of Wuxianming Intelligence & School of Future Technology. 
+
+My research spans (i) intelligent computing for combinatorial optimization—learning-based heuristics, evolutionary methods, and neural CO—and (ii) multi-turn reinforcement learning for LLMs, focusing on credit assignment, dialog planning, and tool use. 
+
+I currently collaborate with Prof. Yahui Jia (SCUT) and Dr. Shen (Georgia Tech). Broadly, I’m interested in mathematics, AI, and data science, aiming to build scalable learning-to-search systems for real-world decision-making.
