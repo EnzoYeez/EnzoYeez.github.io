@@ -24,7 +24,7 @@ sections:
       #css_class: dark
       # Avatar customization
       avatar:
-        size: large  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: xl  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
       background: {}
         #color: black
@@ -42,7 +42,7 @@ sections:
       subtitle: ''
       text: |-
         Use this area to speak to  mission.
-        
+
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
