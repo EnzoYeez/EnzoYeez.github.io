@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 吳健雄
+title: 张越
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhang Yue
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yue
+last_name: Zhang
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ❤
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Junior Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: South China University of Technology
     url: https://openai.com/
 
 # Social network links
@@ -47,68 +47,50 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org
+  - icon: academicons/cv
+    url: uploads/resume.pdf
+
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence 
+  - Data Science
+  - Combinatorial Optimization
+  - Multi-turn RL for LLMs
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Undergraduate in Data Science
+    institution: South China University of Technology
+    date_start: 2023-09
+    date_end: 2027-06
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Avg: 92.19/100
+      GPA: 3.9/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#work:
+  #- position: Director of Cloud Infrastructure
+  #  company_name: GenCoin
+  #  company_url: ''
+  #  company_logo: ''
+  #  date_start: 2021-01-01
+  #  date_end: ''
+  #  summary: |2-
+  #    Responsibilities include:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #- position: Backend Software Engineer
+   # company_name: X
+   # company_url: ''
+  #  company_logo: ''
+   # date_start: 2016-01-01
+   # date_end: 2020-12-31
+  #  summary: |
+   #   Responsibilities include:
+   #   - Migrated infrastructure to a new data center
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -186,4 +168,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a junior majoring in Data Science at South China University of Technology (SCUT), School of Wuxianming Intelligence & School of Future Technology. My research spans (i) intelligent computing for combinatorial optimization—learning-based heuristics, evolutionary methods, and neural CO—and (ii) multi-turn reinforcement learning for LLMs, focusing on credit assignment, dialog planning, and tool use. I currently collaborate with Prof. Yahui Jia (SCUT) and Dr. Shen (Georgia Tech). Broadly, I’m interested in mathematics, AI, and data science, aiming to build scalable learning-to-search systems for real-world decision-making.
