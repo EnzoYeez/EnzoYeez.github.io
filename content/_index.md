@@ -10,6 +10,8 @@ design:
 
 sections:
   - block: resume-biography-3
+    id: about
+    text_color_light: false 
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -19,13 +21,13 @@ sections:
         #text: Download CV
         #url: uploads/resume.pdf
     design:
-      css_class: dark
+      #css_class: dark
       # Avatar customization
       avatar:
-        size: xl  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-      background: 
-        color: black
+      background: {}
+        #color: black
         #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
