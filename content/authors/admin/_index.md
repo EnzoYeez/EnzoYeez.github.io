@@ -62,8 +62,8 @@ interests:
 education:
   - area: Undergraduate in Data Science
     institution: South China University of Technology
-    date_start: 2023-09
-    date_end: 2027-06
+    date_start: 2023-09-01
+    date_end: 2027-06-01
     summary: |
       Avg: 92.19/100
       GPA: 3.9/4.0
