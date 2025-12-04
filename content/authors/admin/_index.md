@@ -168,8 +168,10 @@ awards:
 
 ## About Me
 
-I am a junior majoring in Data Science at South China University of Technology (SCUT), School of Wuxianming Intelligence & School of Future Technology. 
+I am a junior majoring in Data Science at South China University of Technology (SCUT), 
+[School of Wuxianming Intelligence](https://www2.scut.edu.cn/wusie/) & 
+[School of Future Technology](https://www2.scut.edu.cn/ft/).
 
-My research spans (i) intelligent computing for combinatorial optimization—learning-based heuristics, evolutionary methods, and neural CO—and (ii) multi-turn reinforcement learning for LLMs, focusing on credit assignment, dialog planning, and tool use. 
+My research spans (Ⅰ) Intelligent computation, Learning-based  meata heuristics algorithm, Evolutionary methods, and Neural combinatorial optimizationand. (Ⅱ) Reinforcement Learning, Multi-Agent Systems, Scheduling Optimization, Dynamic Dispatching, Combinatorial Decision-Making.(Ⅲ) Multi-turn reinforcement learning for LLMs focusing on credit assignment, dialog planning, and tool use. 
 
-I currently collaborate with Prof. Yahui Jia (SCUT) and Dr. Shen (Georgia Tech). Broadly, I’m interested in mathematics, AI, and data science, aiming to build scalable learning-to-search systems for real-world decision-making.
+I currently collaborate with [Prof. Yahui Jia](https://flyki.github.io/) (SCUT) and [Dr. Xinjie Shen](https://xinjie-shen.com/) (Georgia Tech). Broadly, I’m interested in mathematics, AI, and data science, aiming to build scalable learning-to-search systems for real-world decision-making.
