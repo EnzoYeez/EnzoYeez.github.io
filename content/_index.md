@@ -38,14 +38,22 @@ sections:
           #parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🏆 Honors & Awards'
       subtitle: ''
       text: |-
-        Use this area to speak to  mission.
+        ### Scholarships
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        - **National Scholarship**, China (1/90)
+        - **SCUT First-Class Scholarship** (1/90)
+        - **Huameng First-Class Scholarship** (1/90)
+        - **Lanxi Scholarship** (1/90)
+        - **Taihu Innovation Scholarship** (5/90)
+
+        ### Competitions Awards
+
+        - **2025** — First Prize, China Undergraduate Mathematical Contest in Modeling, in Guangdong
+        - **2025** — First Prize, Asia-Pacific Mathematical Contest in Modeling
+        - **2024** — First Prize, MathorCup Mathematical Modeling Competition, in Guangdong
     design:
       columns: '1'
   - block: collection
