@@ -45,7 +45,7 @@ sections:
         ### Scholarships
 
         <ul class="honors-scholarships">
-          <li><div class="honors-scholarship-row"><span><strong>National Scholarship</strong>, China</span><span class="honors-rank">(1/90)</span></div></li>
+          <li><div class="honors-scholarship-row"><span><strong>National Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
           <li><div class="honors-scholarship-row"><span><strong>SCUT First-Class Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
           <li><div class="honors-scholarship-row"><span><strong>Huameng First-Class Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
           <li><div class="honors-scholarship-row"><span><strong>Lanxi Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
