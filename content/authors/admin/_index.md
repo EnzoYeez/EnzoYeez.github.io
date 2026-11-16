@@ -48,8 +48,6 @@ profiles:
   #  url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-7850-9549
-  - icon: academicons/cv
-    url: uploads/resume.pdf
 
 
 
