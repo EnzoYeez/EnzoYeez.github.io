@@ -37,23 +37,28 @@ sections:
           #position: center
           #parallax: false
   - block: markdown
+    id: honors
     content:
       title: '🏆 Honors & Awards'
       subtitle: ''
       text: |-
         ### Scholarships
 
-        - **National Scholarship**, China (1/90)
-        - **SCUT First-Class Scholarship** (1/90)
-        - **Huameng First-Class Scholarship** (1/90)
-        - **Lanxi Scholarship** (1/90)
-        - **Taihu Innovation Scholarship** (5/90)
+        <ul class="honors-scholarships">
+          <li><div class="honors-scholarship-row"><span><strong>National Scholarship</strong>, China</span><span class="honors-rank">(1/90)</span></div></li>
+          <li><div class="honors-scholarship-row"><span><strong>SCUT First-Class Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
+          <li><div class="honors-scholarship-row"><span><strong>Huameng First-Class Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
+          <li><div class="honors-scholarship-row"><span><strong>Lanxi Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
+          <li><div class="honors-scholarship-row"><span><strong>Taihu Innovation Scholarship</strong></span><span class="honors-rank">(5/90)</span></div></li>
+        </ul>
 
         ### Competitions Awards
 
-        - **2025** — First Prize, China Undergraduate Mathematical Contest in Modeling, in Guangdong
-        - **2025** — First Prize, Asia-Pacific Mathematical Contest in Modeling
-        - **2024** — First Prize, MathorCup Mathematical Modeling Competition, in Guangdong
+        <ul class="honors-competitions">
+          <li><strong>2025</strong> — First Prize, China Undergraduate Mathematical Contest in Modeling, in Guangdong</li>
+          <li><strong>2025</strong> — First Prize, Asia-Pacific Mathematical Contest in Modeling</li>
+          <li><strong>2024</strong> — First Prize, MathorCup Mathematical Modeling Competition, in Guangdong</li>
+        </ul>
     design:
       columns: '1'
   - block: collection

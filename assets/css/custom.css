@@ -1,0 +1,44 @@
+#honors .max-w-prose {
+  width: 100%;
+  max-width: 72rem;
+}
+
+#honors .prose {
+  width: 100%;
+}
+
+#honors .honors-scholarship-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2rem;
+  width: 100%;
+  align-items: baseline;
+}
+
+#honors .honors-rank {
+  min-width: 4.5rem;
+  text-align: right;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+#honors .honors-competitions li {
+  white-space: nowrap;
+  font-size: clamp(0.95rem, 1.4vw, 1.125rem);
+}
+
+#honors .honors-competitions strong {
+  display: inline-block;
+  min-width: 3rem;
+}
+
+@media (max-width: 1023px) {
+  #honors .honors-competitions li {
+    white-space: normal;
+    font-size: 1rem;
+  }
+
+  #honors .honors-scholarship-row {
+    gap: 1rem;
+  }
+}
