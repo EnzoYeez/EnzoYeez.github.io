@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Junior Student
+role: Incoming PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: South China University of Technology
+  - name: Shanghai Jiao Tong University
     url: https://openai.com/
 
 # Social network links
@@ -54,13 +54,14 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence 
-  - Data Science
-  - Combinatorial Optimization
-  - Multi-turn RL for LLMs
+  - Physical Models
+  - Agents
+  - Reinforcement Learning
 
 education:
-  - area: Undergraduate in Data Science
+  - area: PhD in Artificial Intelligence
+    institution: Shanghai Jiao Tong University
+  - area: BE in Data Science
     institution: South China University of Technology
     date_start: 2023-09-01
     date_end: 2027-06-01
@@ -168,10 +169,6 @@ awards:
 
 ## About Me
 
-I am a junior majoring in Data Science at South China University of Technology (SCUT), 
-[School of Wuxianming Intelligence](https://www2.scut.edu.cn/wusie/) & 
-[School of Future Technology](https://www2.scut.edu.cn/ft/).
+I am pursuing my PhD degree at Artificial Intelligence Institute, Department of Computer Science and Engineering, Shanghai Jiao Tong University. I am honored to be supervised by [**Prof. Wei Shen**](https://shenwei1231.github.io/).
 
-My research spans (Ⅰ) Intelligent computation, Learning-based  meata heuristics algorithm, Evolutionary methods, and Neural combinatorial optimizationand. (Ⅱ) Reinforcement Learning, Multi-Agent Systems, Scheduling Optimization, Dynamic Dispatching, Combinatorial Decision-Making.(Ⅲ) Multi-turn reinforcement learning for LLMs focusing on credit assignment, dialog planning, and tool use. 
-
-I currently collaborate with [Prof. Yahui Jia](https://flyki.github.io/) (SCUT) and [Dr. Xinjie Shen](https://xinjie-shen.com/) (Georgia Tech). Broadly, I’m interested in mathematics, AI, and data science, aiming to build scalable learning-to-search systems for real-world decision-making.
+My doctoral research aims to develop intelligent agents capable of understanding the physical world and making optimal decisions, focusing on (Ⅰ) **Physical Models** for understanding and predicting world dynamics, and (Ⅱ) **Reinforcement Learning-based Agents** for reasoning, planning, interaction, and optimal sequential decision-making.
