@@ -48,7 +48,6 @@ sections:
           <li><div class="honors-scholarship-row"><span><strong>National Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
           <li><div class="honors-scholarship-row"><span><strong>SCUT First-Class Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
           <li><div class="honors-scholarship-row"><span><strong>Huameng First-Class Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
-          <li><div class="honors-scholarship-row"><span><strong>Lanxi Scholarship</strong></span><span class="honors-rank">(1/90)</span></div></li>
           <li><div class="honors-scholarship-row"><span><strong>Taihu Innovation Scholarship</strong></span><span class="honors-rank">(5/90)</span></div></li>
         </ul>
 
